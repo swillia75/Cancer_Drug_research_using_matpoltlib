@@ -1,4 +1,3 @@
-# matpoltlib_challenge
 Project Description
 
 ![](Pymaceuticals/DataFrame.png)
