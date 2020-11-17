@@ -1,6 +1,8 @@
 # matpoltlib_challenge
 Project Description
 
+![](Pymaceuticals/DataFrame.png)
+
 The task is to screen potential drugs for the treatment of squamous cell carcinoma(SCC), a common form of skin cancer. The 
 data used was from the most recent study using 249 mice identified as having SCC and treated with the various drugs regimens 
 over 45 days. The data was then trended for reporting.
@@ -30,6 +32,34 @@ Pymaceuticals_starter.ipynb – jupyter notebook containing code for plotting da
 
 Results
 
-![](Pymaceuticals/DataFrame.png)
+Box Plot
+
+![](Pymaceuticals/Boxplot.png)
+
+Gender pie plot (Matplotlib)
+
+![](Pymaceuticals/Gender_pie.png)
+
+Line Graph
+
+![](Pymaceuticals/Line.png)
+
+Bar plot for Mice vs Timepoint (Pandas)
+
+![](Pymaceuticals/Mice_vs_timepoint.png)
+
+Scatter Plot Mouse weight vs Tumor volume
+
+![](Pymaceuticals/Scatter.png)
+
+Scatter plot with regression line
+
+![](Pymaceuticals/Regression.png)
+
+Statistics
+
+![](Pymaceuticals/Outliers.png)
+
+![](Pymaceuticals/Statistics.png)
 
 
